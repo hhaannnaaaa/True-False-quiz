@@ -1,0 +1,31 @@
+body {
+    background-color: antiquewhite;
+    text-align: center;
+    padding-top: 20rem;
+}
+
+.question {
+    font-size: 35px;
+    margin-bottom: 3rem;
+}
+
+.true-btn {
+    margin-right: 20px;
+    font-size: 30px;
+    background-color: green;
+}
+
+.false-btn {
+    font-size: 30px;
+    background-color: red;
+}
+
+.true-btn:hover {
+    color: green;
+    background-color: antiquewhite;
+}
+
+.false-btn:hover {
+    color: red;
+    background-color: antiquewhite;
+}
